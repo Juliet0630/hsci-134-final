@@ -1,3 +1,3 @@
 ## hsci-134-final
 
-# Final project documentation for HSCI-234
+Final project documentation for HSCI-234
